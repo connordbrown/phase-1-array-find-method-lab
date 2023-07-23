@@ -20,7 +20,7 @@ describe('superbowlWin(record)', function () {
     { year: "2004", result: "N/A"},
     { year: "2003", result: "N/A"},
     { year: "2002", result: "N/A"},
-    { year: "2001", result: "N/A"},
+    { year: "2001", resufunlt: "N/A"},
     { year: "2000", result: "N/A"},
     { year: "1999", result: "N/A"},
     { year: "1998", result: "W"},
